@@ -16,5 +16,5 @@ Explore the beauty of our solar system with this simple visualization built usin
 
 Enjoy exploring the cosmos!
 
-
+## GIF Image
 ![ezgif-3-006ce570e6](https://github.com/wilson3centaurus/solar-system/assets/107620180/29416a39-4095-46b8-be18-83c5649fe3da)
